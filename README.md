@@ -8,7 +8,7 @@ to install an app, lets say <abcd> perform the following steps:
 - give the file executable permission 
 
 ``` bash
-chmod +x <abcd>.sh
+chmod +x install_<abcd>.sh
 ```
 
 - finally run the script using
